@@ -20,7 +20,7 @@ $ python
 >>> db.create_all()
 >>> exit()
 ```
-### Once the ENV is create we can use the normal execution of python project 
+###  execution of python project 
 you can use the normal python app.py
 ```console
 $ python app.py
